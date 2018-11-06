@@ -1,0 +1,89 @@
+body {
+    font-family: 'Oswald', sans-serif;
+    background-color: teal
+}
+h2, p, .readme-wrapper {
+    text-align: center
+}
+.boxes {
+    display: block;
+    margin: 1em 0;
+    padding: 5em 10em;
+    border: 2px solid black;
+    border-radius: 50%;
+    width: 20%;
+    
+}
+:hover {
+    
+}
+span {
+    color: blueviolet;
+    font-weight: 700;
+}
+#box1 {
+    background-color: blue;
+}
+#box2 {
+    background-color: chartreuse;
+}
+#box3 {
+    background-color: orangered;
+}
+#box4 {
+    background-color: palevioletred;
+}
+.source image {
+    display: inline;
+    height: 1em;
+    width: 1em;
+    color: bisque;
+}
+h1 {
+    color: aquamarine;
+}
+.group1 {
+    color: azure;
+}
+.group2 {
+    color: black;
+}
+#show1 {
+    color: pink;
+}
+#show2 {
+    color: aliceblue;
+}
+#show3 {
+    color: aqua;
+}
+#show4 {
+    color: red;
+}
+#show5 {
+    color: peru;
+}
+ul {
+    color: pink;
+    font-weight: bolder;
+    font-size: 4em
+}
+.list1 {
+    font-family: cursive;
+}
+.list2 {
+    display: grid;
+    color: blanchedalmond;
+}
+.list3 {
+    color: blue;
+}
+#friends {
+    display: block;
+}
+#travel {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+#restaurants {
+    color: blueviolet;
+}
